@@ -1,0 +1,12 @@
+git config --global user.email youremail
+git config --global user.username youruser
+git config --list
+git init
+git add yourfile
+git add .
+git restore --staged yourfile
+git restore --staged .
+git clone yourlink
+git status
+git commit -m "miprimer commit"
+git diff
